@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-celeste: #87CEEB;
+  --color-rojo: #DC143C;
+}
